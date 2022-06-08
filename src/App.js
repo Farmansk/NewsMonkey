@@ -10,7 +10,8 @@ import {
 const App = () => {
 
   const pageSize = 10;
-  const apiKey = process.env.REACT_APP_NEWS_API
+  const apiKey = '3b5d145b378041eb93897d0011e87c2e';
+  // process.env.REACT_APP_NEWS_API
 
   return (
     <div>
